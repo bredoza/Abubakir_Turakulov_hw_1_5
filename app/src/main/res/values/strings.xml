@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Abubakir_Turakulov_hw_1_5</string>
+    <string name="default_number">0</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="change_visible">Change Visible</string>
+    <string name="reset">Reset</string>
+</resources>
